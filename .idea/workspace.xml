@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b16f0a-0375-48c3-a8ea-c56db3c7eba7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AlcTaskTree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Univers_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/contacts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/tasks.py" afterDir="false" />
+    <list default="true" id="84b16f0a-0375-48c3-a8ea-c56db3c7eba7" name="Changes" comment="0">
+      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Univers_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/Univers_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/contacts.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/contacts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/tasks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +58,19 @@
       <option name="presentableId" value="Default" />
       <updated>1731509811852</updated>
     </task>
+    <task id="LOCAL-00001" summary="0">
+      <option name="closed" value="true" />
+      <created>1731511084809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731511084809</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0" />
+    <option name="LAST_COMMIT_MESSAGE" value="0" />
   </component>
 </project>
